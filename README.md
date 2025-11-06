@@ -1,2 +1,3 @@
 # homebrew-brew
-All homebrew packages
+
+Homebrew formulae for [dsplce.co](https://github.com/dsplce-co) packages
